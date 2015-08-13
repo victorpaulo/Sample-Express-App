@@ -4,8 +4,9 @@
 1 - Clone o Repositório
 
 ```
-git clone 
-cd <project>/bin
+cd <project_folder>
+git clone https://github.com/victorpaulo/Sample-Express-App.git
+cd bin
 node www
 ```
 
