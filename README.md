@@ -6,6 +6,7 @@
 ```
 cd <project_folder>
 git clone https://github.com/victorpaulo/Sample-Express-App.git
+cd Sample-Express-App && npm install
 cd bin
 node www
 ```
