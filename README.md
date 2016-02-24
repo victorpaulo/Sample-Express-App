@@ -1,7 +1,7 @@
 # Sample-Express-App
 ##Testes realizados com NodeJS, Express e Jade
 
-1 - Clone o Repositório
+1 - Clone o Repositório ou use [Express generator](http://expressjs.com/pt-br/starter/generator.html) 
 
 ```
 cd <project_folder>
