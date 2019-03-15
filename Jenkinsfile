@@ -11,5 +11,10 @@ pipeline {
         sh 'echo "hello"'
       }
     }
+    stage('deploy') {
+      steps {
+        sh 'helm install nginx'
+      }
+    }
   }
 }
